@@ -1,0 +1,63 @@
+-- The C compiler identification is GNU 9.4.0
+-- The CXX compiler identification is GNU 9.4.0
+-- Check for working C compiler: /usr/bin/cc
+-- Check for working C compiler: /usr/bin/cc -- works
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Check for working CXX compiler: /usr/bin/c++
+-- Check for working CXX compiler: /usr/bin/c++ -- works
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found ament_cmake: 0.9.12 (/opt/ros/foxy/share/ament_cmake/cmake)
+-- Found PythonInterp: /usr/bin/python3 (found suitable version "3.8.10", minimum required is "3") 
+-- Using PYTHON_EXECUTABLE: /usr/bin/python3
+-- Override CMake install command with custom implementation using symlinks instead of copying resources
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/cpslab/ros2_ljy/build/nova5_control
+-- Install configuration: ""
+-- Execute custom install script
+-- Symlinking: /home/cpslab/ros2_ljy/install/nova5_control/share/ament_index/resource_index/package_run_dependencies/nova5_control
+-- Symlinking: /home/cpslab/ros2_ljy/install/nova5_control/share/ament_index/resource_index/parent_prefix_path/nova5_control
+-- Symlinking: /home/cpslab/ros2_ljy/install/nova5_control/share/nova5_control/environment/ament_prefix_path.sh
+-- Symlinking: /home/cpslab/ros2_ljy/install/nova5_control/share/nova5_control/environment/ament_prefix_path.dsv
+-- Symlinking: /home/cpslab/ros2_ljy/install/nova5_control/share/nova5_control/environment/path.sh
+-- Symlinking: /home/cpslab/ros2_ljy/install/nova5_control/share/nova5_control/environment/path.dsv
+-- Symlinking: /home/cpslab/ros2_ljy/install/nova5_control/share/nova5_control/local_setup.bash
+-- Symlinking: /home/cpslab/ros2_ljy/install/nova5_control/share/nova5_control/local_setup.sh
+-- Symlinking: /home/cpslab/ros2_ljy/install/nova5_control/share/nova5_control/local_setup.zsh
+-- Symlinking: /home/cpslab/ros2_ljy/install/nova5_control/share/nova5_control/local_setup.dsv
+-- Symlinking: /home/cpslab/ros2_ljy/install/nova5_control/share/nova5_control/package.dsv
+-- Symlinking: /home/cpslab/ros2_ljy/install/nova5_control/share/ament_index/resource_index/packages/nova5_control
+-- Symlinking: /home/cpslab/ros2_ljy/install/nova5_control/share/nova5_control/cmake/nova5_controlConfig.cmake
+-- Symlinking: /home/cpslab/ros2_ljy/install/nova5_control/share/nova5_control/cmake/nova5_controlConfig-version.cmake
+-- Symlinking: /home/cpslab/ros2_ljy/install/nova5_control/share/nova5_control/package.xml
+-- Symlinking: /home/cpslab/ros2_ljy/install/nova5_control/share/nova5_control/launch/demo.launch.py
+-- Symlinking: /home/cpslab/ros2_ljy/install/nova5_control/share/nova5_control/launch/gazebo_demo.launch.py
+-- Symlinking: /home/cpslab/ros2_ljy/install/nova5_control/share/nova5_control/launch/move_group.launch.py
+-- Symlinking: /home/cpslab/ros2_ljy/install/nova5_control/share/nova5_control/launch/moveit_rviz.launch.py
+-- Symlinking: /home/cpslab/ros2_ljy/install/nova5_control/share/nova5_control/launch/rsp.launch.py
+-- Symlinking: /home/cpslab/ros2_ljy/install/nova5_control/share/nova5_control/launch/rsp_no_moveit.launch.py
+-- Symlinking: /home/cpslab/ros2_ljy/install/nova5_control/share/nova5_control/launch/setup_assistant.launch.py
+-- Symlinking: /home/cpslab/ros2_ljy/install/nova5_control/share/nova5_control/launch/spawn_controllers.launch.py
+-- Symlinking: /home/cpslab/ros2_ljy/install/nova5_control/share/nova5_control/launch/static_virtual_joint_tfs.launch.py
+-- Symlinking: /home/cpslab/ros2_ljy/install/nova5_control/share/nova5_control/launch/warehouse_db.launch.py
+-- Symlinking: /home/cpslab/ros2_ljy/install/nova5_control/share/nova5_control/config/gazebo_controllers.yaml
+-- Symlinking: /home/cpslab/ros2_ljy/install/nova5_control/share/nova5_control/config/initial_positions.yaml
+-- Symlinking: /home/cpslab/ros2_ljy/install/nova5_control/share/nova5_control/config/joint_limits.yaml
+-- Symlinking: /home/cpslab/ros2_ljy/install/nova5_control/share/nova5_control/config/kinematics.yaml
+-- Symlinking: /home/cpslab/ros2_ljy/install/nova5_control/share/nova5_control/config/moveit.rviz
+-- Symlinking: /home/cpslab/ros2_ljy/install/nova5_control/share/nova5_control/config/moveit_controllers.yaml
+-- Symlinking: /home/cpslab/ros2_ljy/install/nova5_control/share/nova5_control/config/nova2_robot.ros2_control.xacro
+-- Symlinking: /home/cpslab/ros2_ljy/install/nova5_control/share/nova5_control/config/nova2_robot.srdf
+-- Symlinking: /home/cpslab/ros2_ljy/install/nova5_control/share/nova5_control/config/nova2_robot.urdf.xacro
+-- Symlinking: /home/cpslab/ros2_ljy/install/nova5_control/share/nova5_control/config/nova5_robot.ros2_control.xacro
+-- Symlinking: /home/cpslab/ros2_ljy/install/nova5_control/share/nova5_control/config/nova5_robot.srdf
+-- Symlinking: /home/cpslab/ros2_ljy/install/nova5_control/share/nova5_control/config/nova5_robot.urdf.xacro
+-- Symlinking: /home/cpslab/ros2_ljy/install/nova5_control/share/nova5_control/config/pilz_cartesian_limits.yaml
+-- Symlinking: /home/cpslab/ros2_ljy/install/nova5_control/share/nova5_control/config/ros2_controllers.yaml
+-- Symlinking: /home/cpslab/ros2_ljy/install/nova5_control/share/nova5_control/.setup_assistant

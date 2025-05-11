@@ -1,0 +1,9 @@
+/home/cpslab/ros2_ljy/build/nova5_control/CMakeFiles/install/strip.dir
+/home/cpslab/ros2_ljy/build/nova5_control/CMakeFiles/install/local.dir
+/home/cpslab/ros2_ljy/build/nova5_control/CMakeFiles/install.dir
+/home/cpslab/ros2_ljy/build/nova5_control/CMakeFiles/list_install_components.dir
+/home/cpslab/ros2_ljy/build/nova5_control/CMakeFiles/rebuild_cache.dir
+/home/cpslab/ros2_ljy/build/nova5_control/CMakeFiles/edit_cache.dir
+/home/cpslab/ros2_ljy/build/nova5_control/CMakeFiles/test.dir
+/home/cpslab/ros2_ljy/build/nova5_control/CMakeFiles/nova5_control_uninstall.dir
+/home/cpslab/ros2_ljy/build/nova5_control/CMakeFiles/uninstall.dir

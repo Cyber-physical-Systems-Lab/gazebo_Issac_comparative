@@ -1,0 +1,46 @@
+[0.011s] Invoking command in '/home/cpslab/ros2_ljy/build/nova5_control': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /usr/bin/cmake --build /home/cpslab/ros2_ljy/build/nova5_control -- -j32 -l32
+[0.032s] Invoked command in '/home/cpslab/ros2_ljy/build/nova5_control' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /usr/bin/cmake --build /home/cpslab/ros2_ljy/build/nova5_control -- -j32 -l32
+[0.039s] Invoking command in '/home/cpslab/ros2_ljy/build/nova5_control': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /usr/bin/cmake --install /home/cpslab/ros2_ljy/build/nova5_control
+[0.044s] -- Install configuration: ""
+[0.044s] -- Execute custom install script
+[0.044s] -- Up-to-date symlink: /home/cpslab/ros2_ljy/install/nova5_control/share/ament_index/resource_index/package_run_dependencies/nova5_control
+[0.045s] -- Up-to-date symlink: /home/cpslab/ros2_ljy/install/nova5_control/share/ament_index/resource_index/parent_prefix_path/nova5_control
+[0.045s] -- Up-to-date symlink: /home/cpslab/ros2_ljy/install/nova5_control/share/nova5_control/environment/ament_prefix_path.sh
+[0.045s] -- Up-to-date symlink: /home/cpslab/ros2_ljy/install/nova5_control/share/nova5_control/environment/ament_prefix_path.dsv
+[0.045s] -- Up-to-date symlink: /home/cpslab/ros2_ljy/install/nova5_control/share/nova5_control/environment/path.sh
+[0.045s] -- Up-to-date symlink: /home/cpslab/ros2_ljy/install/nova5_control/share/nova5_control/environment/path.dsv
+[0.045s] -- Up-to-date symlink: /home/cpslab/ros2_ljy/install/nova5_control/share/nova5_control/local_setup.bash
+[0.045s] -- Up-to-date symlink: /home/cpslab/ros2_ljy/install/nova5_control/share/nova5_control/local_setup.sh
+[0.046s] -- Up-to-date symlink: /home/cpslab/ros2_ljy/install/nova5_control/share/nova5_control/local_setup.zsh
+[0.046s] -- Up-to-date symlink: /home/cpslab/ros2_ljy/install/nova5_control/share/nova5_control/local_setup.dsv
+[0.046s] -- Symlinking: /home/cpslab/ros2_ljy/install/nova5_control/share/nova5_control/package.dsv
+[0.050s] -- Up-to-date symlink: /home/cpslab/ros2_ljy/install/nova5_control/share/ament_index/resource_index/packages/nova5_control
+[0.051s] -- Up-to-date symlink: /home/cpslab/ros2_ljy/install/nova5_control/share/nova5_control/cmake/nova5_controlConfig.cmake
+[0.051s] -- Up-to-date symlink: /home/cpslab/ros2_ljy/install/nova5_control/share/nova5_control/cmake/nova5_controlConfig-version.cmake
+[0.051s] -- Up-to-date symlink: /home/cpslab/ros2_ljy/install/nova5_control/share/nova5_control/package.xml
+[0.051s] -- Up-to-date symlink: /home/cpslab/ros2_ljy/install/nova5_control/share/nova5_control/launch/demo.launch.py
+[0.051s] -- Up-to-date symlink: /home/cpslab/ros2_ljy/install/nova5_control/share/nova5_control/launch/gazebo_demo.launch.py
+[0.051s] -- Up-to-date symlink: /home/cpslab/ros2_ljy/install/nova5_control/share/nova5_control/launch/move_group.launch.py
+[0.052s] -- Up-to-date symlink: /home/cpslab/ros2_ljy/install/nova5_control/share/nova5_control/launch/moveit_rviz.launch.py
+[0.052s] -- Up-to-date symlink: /home/cpslab/ros2_ljy/install/nova5_control/share/nova5_control/launch/rsp.launch.py
+[0.052s] -- Up-to-date symlink: /home/cpslab/ros2_ljy/install/nova5_control/share/nova5_control/launch/rsp_no_moveit.launch.py
+[0.052s] -- Up-to-date symlink: /home/cpslab/ros2_ljy/install/nova5_control/share/nova5_control/launch/setup_assistant.launch.py
+[0.052s] -- Up-to-date symlink: /home/cpslab/ros2_ljy/install/nova5_control/share/nova5_control/launch/spawn_controllers.launch.py
+[0.052s] -- Up-to-date symlink: /home/cpslab/ros2_ljy/install/nova5_control/share/nova5_control/launch/static_virtual_joint_tfs.launch.py
+[0.052s] -- Up-to-date symlink: /home/cpslab/ros2_ljy/install/nova5_control/share/nova5_control/launch/warehouse_db.launch.py
+[0.052s] -- Up-to-date symlink: /home/cpslab/ros2_ljy/install/nova5_control/share/nova5_control/config/gazebo_controllers.yaml
+[0.052s] -- Up-to-date symlink: /home/cpslab/ros2_ljy/install/nova5_control/share/nova5_control/config/initial_positions.yaml
+[0.052s] -- Up-to-date symlink: /home/cpslab/ros2_ljy/install/nova5_control/share/nova5_control/config/joint_limits.yaml
+[0.052s] -- Up-to-date symlink: /home/cpslab/ros2_ljy/install/nova5_control/share/nova5_control/config/kinematics.yaml
+[0.053s] -- Up-to-date symlink: /home/cpslab/ros2_ljy/install/nova5_control/share/nova5_control/config/moveit.rviz
+[0.053s] -- Up-to-date symlink: /home/cpslab/ros2_ljy/install/nova5_control/share/nova5_control/config/moveit_controllers.yaml
+[0.053s] -- Up-to-date symlink: /home/cpslab/ros2_ljy/install/nova5_control/share/nova5_control/config/nova2_robot.ros2_control.xacro
+[0.053s] -- Up-to-date symlink: /home/cpslab/ros2_ljy/install/nova5_control/share/nova5_control/config/nova2_robot.srdf
+[0.053s] -- Up-to-date symlink: /home/cpslab/ros2_ljy/install/nova5_control/share/nova5_control/config/nova2_robot.urdf.xacro
+[0.053s] -- Up-to-date symlink: /home/cpslab/ros2_ljy/install/nova5_control/share/nova5_control/config/nova5_robot.ros2_control.xacro
+[0.053s] -- Up-to-date symlink: /home/cpslab/ros2_ljy/install/nova5_control/share/nova5_control/config/nova5_robot.srdf
+[0.053s] -- Up-to-date symlink: /home/cpslab/ros2_ljy/install/nova5_control/share/nova5_control/config/nova5_robot.urdf.xacro
+[0.053s] -- Up-to-date symlink: /home/cpslab/ros2_ljy/install/nova5_control/share/nova5_control/config/pilz_cartesian_limits.yaml
+[0.053s] -- Up-to-date symlink: /home/cpslab/ros2_ljy/install/nova5_control/share/nova5_control/config/ros2_controllers.yaml
+[0.053s] -- Up-to-date symlink: /home/cpslab/ros2_ljy/install/nova5_control/share/nova5_control/.setup_assistant
+[0.055s] Invoked command in '/home/cpslab/ros2_ljy/build/nova5_control' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /usr/bin/cmake --install /home/cpslab/ros2_ljy/build/nova5_control

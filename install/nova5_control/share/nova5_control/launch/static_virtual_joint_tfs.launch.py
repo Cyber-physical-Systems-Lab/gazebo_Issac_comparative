@@ -1,0 +1,1 @@
+/home/cpslab/ros2_ljy/src/Nova_ROS2/nova5_control/launch/static_virtual_joint_tfs.launch.py
