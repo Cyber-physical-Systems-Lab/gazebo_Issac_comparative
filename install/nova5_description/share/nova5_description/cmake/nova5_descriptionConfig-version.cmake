@@ -1,0 +1,1 @@
+/home/cpslab/ros2_ljy/build/nova5_description/ament_cmake_core/nova5_descriptionConfig-version.cmake

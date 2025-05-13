@@ -1,0 +1,1 @@
+/home/cpslab/ros2_ljy/src/Nova_ROS2/nova5_control/launch/moveit_rviz.launch.py

@@ -1,0 +1,1 @@
+/home/cpslab/ros2_ljy/build/nova5_control/ament_cmake_environment_hooks/local_setup.sh

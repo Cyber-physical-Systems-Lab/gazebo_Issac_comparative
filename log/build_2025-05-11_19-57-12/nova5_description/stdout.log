@@ -1,0 +1,78 @@
+-- The C compiler identification is GNU 9.4.0
+-- The CXX compiler identification is GNU 9.4.0
+-- Check for working C compiler: /usr/bin/cc
+-- Check for working C compiler: /usr/bin/cc -- works
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Check for working CXX compiler: /usr/bin/c++
+-- Check for working CXX compiler: /usr/bin/c++ -- works
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found ament_cmake: 0.9.12 (/opt/ros/foxy/share/ament_cmake/cmake)
+-- Found PythonInterp: /usr/bin/python3 (found suitable version "3.8.10", minimum required is "3") 
+-- Using PYTHON_EXECUTABLE: /usr/bin/python3
+-- Override CMake install command with custom implementation using symlinks instead of copying resources
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/cpslab/ros2_ljy/build/nova5_description
+-- Install configuration: ""
+-- Execute custom install script
+-- Symlinking: /home/cpslab/ros2_ljy/install/nova5_description/share/nova5_description/urdf/build/.built_by
+-- Symlinking: /home/cpslab/ros2_ljy/install/nova5_description/share/nova5_description/urdf/build/COLCON_IGNORE
+-- Symlinking: /home/cpslab/ros2_ljy/install/nova5_description/share/nova5_description/urdf/install/.colcon_install_layout
+-- Symlinking: /home/cpslab/ros2_ljy/install/nova5_description/share/nova5_description/urdf/install/COLCON_IGNORE
+-- Symlinking: /home/cpslab/ros2_ljy/install/nova5_description/share/nova5_description/urdf/install/_local_setup_util_ps1.py
+-- Symlinking: /home/cpslab/ros2_ljy/install/nova5_description/share/nova5_description/urdf/install/_local_setup_util_sh.py
+-- Symlinking: /home/cpslab/ros2_ljy/install/nova5_description/share/nova5_description/urdf/install/local_setup.bash
+-- Symlinking: /home/cpslab/ros2_ljy/install/nova5_description/share/nova5_description/urdf/install/local_setup.ps1
+-- Symlinking: /home/cpslab/ros2_ljy/install/nova5_description/share/nova5_description/urdf/install/local_setup.sh
+-- Symlinking: /home/cpslab/ros2_ljy/install/nova5_description/share/nova5_description/urdf/install/local_setup.zsh
+-- Symlinking: /home/cpslab/ros2_ljy/install/nova5_description/share/nova5_description/urdf/install/setup.bash
+-- Symlinking: /home/cpslab/ros2_ljy/install/nova5_description/share/nova5_description/urdf/install/setup.ps1
+-- Symlinking: /home/cpslab/ros2_ljy/install/nova5_description/share/nova5_description/urdf/install/setup.sh
+-- Symlinking: /home/cpslab/ros2_ljy/install/nova5_description/share/nova5_description/urdf/install/setup.zsh
+-- Symlinking: /home/cpslab/ros2_ljy/install/nova5_description/share/nova5_description/urdf/log/COLCON_IGNORE
+-- Symlinking: /home/cpslab/ros2_ljy/install/nova5_description/share/nova5_description/urdf/log/build_2025-05-11_19-06-57/events.log
+-- Symlinking: /home/cpslab/ros2_ljy/install/nova5_description/share/nova5_description/urdf/log/build_2025-05-11_19-06-57/logger_all.log
+-- Symlinking: /home/cpslab/ros2_ljy/install/nova5_description/share/nova5_description/urdf/log/latest/events.log
+-- Symlinking: /home/cpslab/ros2_ljy/install/nova5_description/share/nova5_description/urdf/log/latest/logger_all.log
+-- Symlinking: /home/cpslab/ros2_ljy/install/nova5_description/share/nova5_description/urdf/log/latest_build/events.log
+-- Symlinking: /home/cpslab/ros2_ljy/install/nova5_description/share/nova5_description/urdf/log/latest_build/logger_all.log
+-- Symlinking: /home/cpslab/ros2_ljy/install/nova5_description/share/nova5_description/urdf/nova5_robot.xacro
+-- Symlinking: /home/cpslab/ros2_ljy/install/nova5_description/share/nova5_description/urdf/nova5_robot_2f85.urdf.xacro
+-- Symlinking: /home/cpslab/ros2_ljy/install/nova5_description/share/nova5_description/meshes/nova5/Link1.STL
+-- Symlinking: /home/cpslab/ros2_ljy/install/nova5_description/share/nova5_description/meshes/nova5/Link2.STL
+-- Symlinking: /home/cpslab/ros2_ljy/install/nova5_description/share/nova5_description/meshes/nova5/Link3.STL
+-- Symlinking: /home/cpslab/ros2_ljy/install/nova5_description/share/nova5_description/meshes/nova5/Link4.STL
+-- Symlinking: /home/cpslab/ros2_ljy/install/nova5_description/share/nova5_description/meshes/nova5/Link5.STL
+-- Symlinking: /home/cpslab/ros2_ljy/install/nova5_description/share/nova5_description/meshes/nova5/Link6.STL
+-- Symlinking: /home/cpslab/ros2_ljy/install/nova5_description/share/nova5_description/meshes/nova5/base_link.STL
+-- Symlinking: /home/cpslab/ros2_ljy/install/nova5_description/share/nova5_description/meshes/robotiq_2f85/inner_finger_coarse.STL
+-- Symlinking: /home/cpslab/ros2_ljy/install/nova5_description/share/nova5_description/meshes/robotiq_2f85/inner_finger_fine.STL
+-- Symlinking: /home/cpslab/ros2_ljy/install/nova5_description/share/nova5_description/meshes/robotiq_2f85/inner_knuckle_coarse.STL
+-- Symlinking: /home/cpslab/ros2_ljy/install/nova5_description/share/nova5_description/meshes/robotiq_2f85/inner_knuckle_fine.STL
+-- Symlinking: /home/cpslab/ros2_ljy/install/nova5_description/share/nova5_description/meshes/robotiq_2f85/outer_finger_coarse.STL
+-- Symlinking: /home/cpslab/ros2_ljy/install/nova5_description/share/nova5_description/meshes/robotiq_2f85/outer_finger_fine.STL
+-- Symlinking: /home/cpslab/ros2_ljy/install/nova5_description/share/nova5_description/meshes/robotiq_2f85/outer_knuckle_coarse.STL
+-- Symlinking: /home/cpslab/ros2_ljy/install/nova5_description/share/nova5_description/meshes/robotiq_2f85/outer_knuckle_fine.STL
+-- Symlinking: /home/cpslab/ros2_ljy/install/nova5_description/share/nova5_description/meshes/robotiq_2f85/robotiq_85_base_link_coarse.STL
+-- Symlinking: /home/cpslab/ros2_ljy/install/nova5_description/share/nova5_description/meshes/robotiq_2f85/robotiq_85_base_link_fine.STL
+-- Symlinking: /home/cpslab/ros2_ljy/install/nova5_description/share/ament_index/resource_index/package_run_dependencies/nova5_description
+-- Symlinking: /home/cpslab/ros2_ljy/install/nova5_description/share/ament_index/resource_index/parent_prefix_path/nova5_description
+-- Symlinking: /home/cpslab/ros2_ljy/install/nova5_description/share/nova5_description/environment/ament_prefix_path.sh
+-- Symlinking: /home/cpslab/ros2_ljy/install/nova5_description/share/nova5_description/environment/ament_prefix_path.dsv
+-- Symlinking: /home/cpslab/ros2_ljy/install/nova5_description/share/nova5_description/environment/path.sh
+-- Symlinking: /home/cpslab/ros2_ljy/install/nova5_description/share/nova5_description/environment/path.dsv
+-- Symlinking: /home/cpslab/ros2_ljy/install/nova5_description/share/nova5_description/local_setup.bash
+-- Symlinking: /home/cpslab/ros2_ljy/install/nova5_description/share/nova5_description/local_setup.sh
+-- Symlinking: /home/cpslab/ros2_ljy/install/nova5_description/share/nova5_description/local_setup.zsh
+-- Symlinking: /home/cpslab/ros2_ljy/install/nova5_description/share/nova5_description/local_setup.dsv
+-- Symlinking: /home/cpslab/ros2_ljy/install/nova5_description/share/nova5_description/package.dsv
+-- Symlinking: /home/cpslab/ros2_ljy/install/nova5_description/share/ament_index/resource_index/packages/nova5_description
+-- Symlinking: /home/cpslab/ros2_ljy/install/nova5_description/share/nova5_description/cmake/nova5_descriptionConfig.cmake
+-- Symlinking: /home/cpslab/ros2_ljy/install/nova5_description/share/nova5_description/cmake/nova5_descriptionConfig-version.cmake
+-- Symlinking: /home/cpslab/ros2_ljy/install/nova5_description/share/nova5_description/package.xml

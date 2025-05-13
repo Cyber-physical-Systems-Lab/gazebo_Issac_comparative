@@ -1,0 +1,70 @@
+[0.010s] Invoking command in '/home/cpslab/ros2_ljy/build/nova5_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /usr/bin/cmake --build /home/cpslab/ros2_ljy/build/nova5_description -- -j32 -l32
+[0.037s] Invoked command in '/home/cpslab/ros2_ljy/build/nova5_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /usr/bin/cmake --build /home/cpslab/ros2_ljy/build/nova5_description -- -j32 -l32
+[0.038s] Invoking command in '/home/cpslab/ros2_ljy/build/nova5_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /usr/bin/cmake --install /home/cpslab/ros2_ljy/build/nova5_description
+[0.042s] -- Install configuration: ""
+[0.043s] -- Execute custom install script
+[0.043s] CMake Warning (dev) at ament_cmake_symlink_install/ament_cmake_symlink_install.cmake:62 (file):
+[0.043s]   Policy CMP0009 is not set: FILE GLOB_RECURSE calls should not follow
+[0.043s]   symlinks by default.  Run "cmake --help-policy CMP0009" for policy details.
+[0.043s]   Use the cmake_policy command to set the policy and suppress this warning.
+[0.043s] Call Stack (most recent call first):
+[0.043s]   ament_cmake_symlink_install/ament_cmake_symlink_install.cmake:314 (ament_cmake_symlink_install_directory)
+[0.043s]   cmake_install.cmake:41 (include)
+[0.043s] This warning is for project developers.  Use -Wno-dev to suppress it.
+[0.043s] 
+[0.043s] -- Up-to-date symlink: /home/cpslab/ros2_ljy/install/nova5_description/share/nova5_description/urdf/build/.built_by
+[0.043s] -- Up-to-date symlink: /home/cpslab/ros2_ljy/install/nova5_description/share/nova5_description/urdf/build/COLCON_IGNORE
+[0.044s] -- Up-to-date symlink: /home/cpslab/ros2_ljy/install/nova5_description/share/nova5_description/urdf/install/.colcon_install_layout
+[0.044s] -- Up-to-date symlink: /home/cpslab/ros2_ljy/install/nova5_description/share/nova5_description/urdf/install/COLCON_IGNORE
+[0.044s] -- Up-to-date symlink: /home/cpslab/ros2_ljy/install/nova5_description/share/nova5_description/urdf/install/_local_setup_util_ps1.py
+[0.044s] -- Up-to-date symlink: /home/cpslab/ros2_ljy/install/nova5_description/share/nova5_description/urdf/install/_local_setup_util_sh.py
+[0.044s] -- Up-to-date symlink: /home/cpslab/ros2_ljy/install/nova5_description/share/nova5_description/urdf/install/local_setup.bash
+[0.044s] -- Up-to-date symlink: /home/cpslab/ros2_ljy/install/nova5_description/share/nova5_description/urdf/install/local_setup.ps1
+[0.044s] -- Up-to-date symlink: /home/cpslab/ros2_ljy/install/nova5_description/share/nova5_description/urdf/install/local_setup.sh
+[0.044s] -- Up-to-date symlink: /home/cpslab/ros2_ljy/install/nova5_description/share/nova5_description/urdf/install/local_setup.zsh
+[0.044s] -- Up-to-date symlink: /home/cpslab/ros2_ljy/install/nova5_description/share/nova5_description/urdf/install/setup.bash
+[0.044s] -- Up-to-date symlink: /home/cpslab/ros2_ljy/install/nova5_description/share/nova5_description/urdf/install/setup.ps1
+[0.044s] -- Up-to-date symlink: /home/cpslab/ros2_ljy/install/nova5_description/share/nova5_description/urdf/install/setup.sh
+[0.044s] -- Up-to-date symlink: /home/cpslab/ros2_ljy/install/nova5_description/share/nova5_description/urdf/install/setup.zsh
+[0.044s] -- Up-to-date symlink: /home/cpslab/ros2_ljy/install/nova5_description/share/nova5_description/urdf/log/COLCON_IGNORE
+[0.044s] -- Up-to-date symlink: /home/cpslab/ros2_ljy/install/nova5_description/share/nova5_description/urdf/log/build_2025-05-11_19-06-57/events.log
+[0.044s] -- Up-to-date symlink: /home/cpslab/ros2_ljy/install/nova5_description/share/nova5_description/urdf/log/build_2025-05-11_19-06-57/logger_all.log
+[0.044s] -- Up-to-date symlink: /home/cpslab/ros2_ljy/install/nova5_description/share/nova5_description/urdf/log/latest/events.log
+[0.045s] -- Up-to-date symlink: /home/cpslab/ros2_ljy/install/nova5_description/share/nova5_description/urdf/log/latest/logger_all.log
+[0.045s] -- Up-to-date symlink: /home/cpslab/ros2_ljy/install/nova5_description/share/nova5_description/urdf/log/latest_build/events.log
+[0.045s] -- Up-to-date symlink: /home/cpslab/ros2_ljy/install/nova5_description/share/nova5_description/urdf/log/latest_build/logger_all.log
+[0.045s] -- Up-to-date symlink: /home/cpslab/ros2_ljy/install/nova5_description/share/nova5_description/urdf/nova5_robot.xacro
+[0.045s] -- Up-to-date symlink: /home/cpslab/ros2_ljy/install/nova5_description/share/nova5_description/urdf/nova5_robot_2f85.urdf.xacro
+[0.045s] -- Up-to-date symlink: /home/cpslab/ros2_ljy/install/nova5_description/share/nova5_description/meshes/nova5/Link1.STL
+[0.045s] -- Up-to-date symlink: /home/cpslab/ros2_ljy/install/nova5_description/share/nova5_description/meshes/nova5/Link2.STL
+[0.045s] -- Up-to-date symlink: /home/cpslab/ros2_ljy/install/nova5_description/share/nova5_description/meshes/nova5/Link3.STL
+[0.045s] -- Up-to-date symlink: /home/cpslab/ros2_ljy/install/nova5_description/share/nova5_description/meshes/nova5/Link4.STL
+[0.045s] -- Up-to-date symlink: /home/cpslab/ros2_ljy/install/nova5_description/share/nova5_description/meshes/nova5/Link5.STL
+[0.045s] -- Up-to-date symlink: /home/cpslab/ros2_ljy/install/nova5_description/share/nova5_description/meshes/nova5/Link6.STL
+[0.046s] -- Up-to-date symlink: /home/cpslab/ros2_ljy/install/nova5_description/share/nova5_description/meshes/nova5/base_link.STL
+[0.046s] -- Up-to-date symlink: /home/cpslab/ros2_ljy/install/nova5_description/share/nova5_description/meshes/robotiq_2f85/inner_finger_coarse.STL
+[0.046s] -- Up-to-date symlink: /home/cpslab/ros2_ljy/install/nova5_description/share/nova5_description/meshes/robotiq_2f85/inner_finger_fine.STL
+[0.046s] -- Up-to-date symlink: /home/cpslab/ros2_ljy/install/nova5_description/share/nova5_description/meshes/robotiq_2f85/inner_knuckle_coarse.STL
+[0.046s] -- Up-to-date symlink: /home/cpslab/ros2_ljy/install/nova5_description/share/nova5_description/meshes/robotiq_2f85/inner_knuckle_fine.STL
+[0.046s] -- Up-to-date symlink: /home/cpslab/ros2_ljy/install/nova5_description/share/nova5_description/meshes/robotiq_2f85/outer_finger_coarse.STL
+[0.046s] -- Up-to-date symlink: /home/cpslab/ros2_ljy/install/nova5_description/share/nova5_description/meshes/robotiq_2f85/outer_finger_fine.STL
+[0.046s] -- Up-to-date symlink: /home/cpslab/ros2_ljy/install/nova5_description/share/nova5_description/meshes/robotiq_2f85/outer_knuckle_coarse.STL
+[0.046s] -- Up-to-date symlink: /home/cpslab/ros2_ljy/install/nova5_description/share/nova5_description/meshes/robotiq_2f85/outer_knuckle_fine.STL
+[0.046s] -- Up-to-date symlink: /home/cpslab/ros2_ljy/install/nova5_description/share/nova5_description/meshes/robotiq_2f85/robotiq_85_base_link_coarse.STL
+[0.046s] -- Up-to-date symlink: /home/cpslab/ros2_ljy/install/nova5_description/share/nova5_description/meshes/robotiq_2f85/robotiq_85_base_link_fine.STL
+[0.046s] -- Up-to-date symlink: /home/cpslab/ros2_ljy/install/nova5_description/share/ament_index/resource_index/package_run_dependencies/nova5_description
+[0.047s] -- Up-to-date symlink: /home/cpslab/ros2_ljy/install/nova5_description/share/ament_index/resource_index/parent_prefix_path/nova5_description
+[0.047s] -- Up-to-date symlink: /home/cpslab/ros2_ljy/install/nova5_description/share/nova5_description/environment/ament_prefix_path.sh
+[0.047s] -- Up-to-date symlink: /home/cpslab/ros2_ljy/install/nova5_description/share/nova5_description/environment/ament_prefix_path.dsv
+[0.047s] -- Up-to-date symlink: /home/cpslab/ros2_ljy/install/nova5_description/share/nova5_description/environment/path.sh
+[0.047s] -- Up-to-date symlink: /home/cpslab/ros2_ljy/install/nova5_description/share/nova5_description/environment/path.dsv
+[0.047s] -- Up-to-date symlink: /home/cpslab/ros2_ljy/install/nova5_description/share/nova5_description/local_setup.bash
+[0.047s] -- Up-to-date symlink: /home/cpslab/ros2_ljy/install/nova5_description/share/nova5_description/local_setup.sh
+[0.047s] -- Up-to-date symlink: /home/cpslab/ros2_ljy/install/nova5_description/share/nova5_description/local_setup.zsh
+[0.048s] -- Up-to-date symlink: /home/cpslab/ros2_ljy/install/nova5_description/share/nova5_description/local_setup.dsv
+[0.048s] -- Symlinking: /home/cpslab/ros2_ljy/install/nova5_description/share/nova5_description/package.dsv
+[0.053s] -- Up-to-date symlink: /home/cpslab/ros2_ljy/install/nova5_description/share/ament_index/resource_index/packages/nova5_description
+[0.053s] -- Up-to-date symlink: /home/cpslab/ros2_ljy/install/nova5_description/share/nova5_description/cmake/nova5_descriptionConfig.cmake
+[0.053s] -- Up-to-date symlink: /home/cpslab/ros2_ljy/install/nova5_description/share/nova5_description/cmake/nova5_descriptionConfig-version.cmake
+[0.053s] -- Up-to-date symlink: /home/cpslab/ros2_ljy/install/nova5_description/share/nova5_description/package.xml
+[0.062s] Invoked command in '/home/cpslab/ros2_ljy/build/nova5_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /usr/bin/cmake --install /home/cpslab/ros2_ljy/build/nova5_description

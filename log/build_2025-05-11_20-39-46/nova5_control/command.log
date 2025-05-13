@@ -1,0 +1,4 @@
+Invoking command in '/home/cpslab/ros2_ljy/build/nova5_control': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /usr/bin/cmake --build /home/cpslab/ros2_ljy/build/nova5_control -- -j32 -l32
+Invoked command in '/home/cpslab/ros2_ljy/build/nova5_control' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /usr/bin/cmake --build /home/cpslab/ros2_ljy/build/nova5_control -- -j32 -l32
+Invoking command in '/home/cpslab/ros2_ljy/build/nova5_control': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /usr/bin/cmake --install /home/cpslab/ros2_ljy/build/nova5_control
+Invoked command in '/home/cpslab/ros2_ljy/build/nova5_control' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /usr/bin/cmake --install /home/cpslab/ros2_ljy/build/nova5_control
